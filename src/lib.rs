@@ -1,6 +1,6 @@
 //! IsTrue
 //! 
-//! A simple library for checking if a value is true.
+//! A Rust library for checking if a value is true.
 
 pub trait IsTrue {
     fn is_true(&self) -> bool;
@@ -9,11 +9,10 @@ pub trait IsTrue {
 impl IsTrue for bool {
     /// Check if the boolean is true
     /// 
-    /// # Examples
+    /// # Example
     /// 
     /// ```
-    /// extern crate 
-    /// ;
+    /// extern crate is_true_rs;
     /// use is_true_rs::IsTrue;
     /// 
     /// let x = true;

@@ -2,7 +2,7 @@
 name = "is_true_rs"
 version = "0.1.0"
 edition = "2021"
-license-file = "LICENSE"
+license = "AGPL-3.0"
 description = "A Rust library for checking if a value is true."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
