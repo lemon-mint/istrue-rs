@@ -1,5 +1,5 @@
 [package]
-name = "is_true"
+name = "is_true_rs"
 version = "0.1.0"
 edition = "2021"
 
