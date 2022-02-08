@@ -4,6 +4,7 @@ version = "0.1.1"
 edition = "2021"
 license = "AGPL-3.0"
 description = "A Rust library for checking if a value is true."
+homepage = "https://github.com/lemon-mint/istrue-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
